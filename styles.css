@@ -1,0 +1,15 @@
+img{
+    width: 100px;
+}
+body{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkgoldenrod;
+    color: whitesmoke;
+    margin: 200px;
+}
+p{
+    font-size: 20px;
+}
